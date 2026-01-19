@@ -18,7 +18,7 @@ Technologien:
 Installation / Nutzung:
 1. Python 3 installieren
 2. Repository klonen oder herunterladen
-3. gui.py ausführen:  "python Gui.py"
+3. Gui.py ausführen:  "python Gui.py"
 4. Die Datenbank (personal.db) wird automatisch mit zwei Beispielen erstellt, falls sie noch nicht existiert
 
 Struktur:
