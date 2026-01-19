@@ -14,6 +14,7 @@ Technologien:
 - Python 3
 - Tkinter (GUI)
 - SQLite (Datenbank)
+- sqlite3
 
 Installation / Nutzung:
 1. Python 3 installieren
