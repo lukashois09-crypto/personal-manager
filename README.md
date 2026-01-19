@@ -20,7 +20,7 @@ Installation / Nutzung:
 1. Python 3 installieren
 2. Repository klonen oder herunterladen
 3. gui.py ausführen:  "python Gui.py"
-4. Die Datenbnak (personal.db) wird automatisch mit zwei Beispielen erstellt, falls sie noch nicht existiert
+4. Die Datenbank (personal.db) wird automatisch mit zwei Beispielen erstellt, falls sie noch nicht existiert
 
 Struktur:
 - Gui.py -> Hauptprogramm mit der Benutzeroberfläche
