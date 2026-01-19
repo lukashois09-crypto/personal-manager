@@ -5,9 +5,8 @@ import os
 
 
 if  os.path.exists('personal.db'):
-    print('DB exists')
+    pass
 else:
-    print("DB doesn't exist. Initializing...")
     SQLite_db.create_table()
     SQLite_db.insert_sample()
 
