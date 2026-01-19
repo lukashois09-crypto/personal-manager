@@ -1,5 +1,4 @@
 Personal Manager
-Beschreibung:
 
 Dieses Projekt ist eine einfache Desktop-Anwendung in Python mit Tkinter und SQLite, die es ermöglicht, Mitarbeiterdaten zu verwalten. Man kann Mitarbeiter hinzufügen, bearbeiten, löschen und nach ihnen suchen.
 Funktionen:
